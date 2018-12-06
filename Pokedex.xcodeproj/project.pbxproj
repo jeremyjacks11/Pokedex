@@ -12,6 +12,7 @@
 		76B4427821B8AB4B00A10F77 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 76B4427621B8AB4B00A10F77 /* Main.storyboard */; };
 		76B4427A21B8AB4C00A10F77 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 76B4427921B8AB4C00A10F77 /* Assets.xcassets */; };
 		76B4427D21B8AB4C00A10F77 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 76B4427B21B8AB4C00A10F77 /* LaunchScreen.storyboard */; };
+		76B4428521B8AF6200A10F77 /* pokemon_species.csv in Resources */ = {isa = PBXBuildFile; fileRef = 76B4428421B8AF6200A10F77 /* pokemon_species.csv */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		76B4427921B8AB4C00A10F77 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		76B4427C21B8AB4C00A10F77 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		76B4427E21B8AB4D00A10F77 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		76B4428421B8AF6200A10F77 /* pokemon_species.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokemon_species.csv; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				76B4427421B8AB4B00A10F77 /* ViewController.swift */,
 				76B4427621B8AB4B00A10F77 /* Main.storyboard */,
 				76B4427921B8AB4C00A10F77 /* Assets.xcassets */,
+				76B4428421B8AF6200A10F77 /* pokemon_species.csv */,
 				76B4427B21B8AB4C00A10F77 /* LaunchScreen.storyboard */,
 				76B4427E21B8AB4D00A10F77 /* Info.plist */,
 			);
@@ -123,6 +126,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				76B4427D21B8AB4C00A10F77 /* LaunchScreen.storyboard in Resources */,
+				76B4428521B8AF6200A10F77 /* pokemon_species.csv in Resources */,
 				76B4427A21B8AB4C00A10F77 /* Assets.xcassets in Resources */,
 				76B4427821B8AB4B00A10F77 /* Main.storyboard in Resources */,
 			);
